@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Virat is  a Full Stack Developer, Struggle to grow World Online.</h2>
+<h2 align="left">Virat is  a Full Stack Developer, Struggle to grow World Online. 📈</h2>
 
 ###
 
