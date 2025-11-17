@@ -16,15 +16,47 @@
 
 ###
 
-<img align="right" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXVsZDVpYnJuamhzN2p5dDMxYjNxcTFsems5MHQ4dmhpcGxkMHkxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif"  />
+<img align="right" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXVsZDVpYnJuamhzN2p5dDMxYjNxcTFsems5MHQ4dmhpcGxkMHkxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif"  />
 
 ###
 
-<h4><a href="https://drive.google.com/drive/folders/1aZZfPblfo9mPUfiHE0rKlpPzgc7_Ki73?usp=sharing" target="_blank">Hi, I'm Virat - All Works</a></h4>
+<h5>- 👨‍💻 Hi, I'm Virat this is my all works -<a href="https://drive.google.com/drive/folders/1aZZfPblfo9mPUfiHE0rKlpPzgc7_Ki73?usp=sharing" target="_blank"> click here</a></h4>
 
 ###
 
-<h2 align="left">Taste with CODE</h2>
+<h5>💬 Reach me at -<a href="https://virat-podwork-portfolio.vercel.app" target="_blank"> click here</a></h4>
+
+###
+
+<h5>🤝 My email is -<a href="mailto:podwork.info@gmail.com"> podwork.info@gmail.com</a></h5>
+
+###
+
+<h5>📄 Know My Portfolio? -<a href="https://virat-podwork-portfolio.vercel.app" target="_blank"> click here</a></h5>
+
+###
+
+<h5>⚡ Fun fact: <strong>you never succeed without going online ...</strong></h5>
+
+###
+
+<hr>
+
+###
+
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=virat-pod&show_icons=true&locale=en&layout=compact" alt="virat-pod" style="height: 120px;">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=virat-pod&show_icons=true&locale=en" alt="virat-pod" style="height: 120px; margin: 0 auto;">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virat-pod&" alt="virat-pod" style="height: 120px;">
+</div>
+
+<hr>
+
+###
+
+<h3 align="left">Languages and Tools:</h3>
 
 ###
 
@@ -87,16 +119,13 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/virat-poddar-636b79317" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/virat-poddar-557600396" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="55" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/PodWork_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://discord.com/channels/@gamingfinal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/podwork_/" target="_blank">
+  <a href="https://www.instagram.com/podwork.agency/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
   </a>
 </div>
