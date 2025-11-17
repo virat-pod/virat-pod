@@ -20,23 +20,23 @@
 
 ###
 
-<h5>- 👨‍💻 Hi, I'm Virat this is my all works -<a href="https://drive.google.com/drive/folders/1Di7iGi8EZf1NOo_LEhApvcFcjxjm8y7y?usp=drive_link" target="_blank"> click here</a></h4>
+<h4>- 👨‍💻 Hi, I'm Virat this is my all works -<a href="https://drive.google.com/drive/folders/1Di7iGi8EZf1NOo_LEhApvcFcjxjm8y7y?usp=drive_link" target="_blank"> click here</a></h4>
 
 ###
 
-<h5>💬 Reach me at -<a href="https://virat-podwork-portfolio.vercel.app" target="_blank"> click here</a></h4>
+<h4>- 💬 Reach me at -<a href="https://virat-podwork-portfolio.vercel.app" target="_blank"> click here</a></h4>
 
 ###
 
-<h5>🤝 My email is -<a href="mailto:podwork.info@gmail.com"> podwork.info@gmail.com</a></h5>
+<h4>- 🤝 My email is -<a href="mailto:podwork.info@gmail.com"> podwork.info@gmail.com</a></h4>
 
 ###
 
-<h5>📄 Know My Portfolio? -<a href="https://virat-podwork-portfolio.vercel.app" target="_blank"> click here</a></h5>
+<h4>- 📄 Know My Portfolio? -<a href="https://virat-podwork-portfolio.vercel.app" target="_blank"> click here</a></h4>
 
 ###
 
-<h5>⚡ Fun fact: <strong>you never succeed without going online ...</strong></h5>
+<h4>- ⚡ Fun fact: <strong>you never succeed without going online ...</strong></h4>
 
 ###
 
