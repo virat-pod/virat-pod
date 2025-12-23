@@ -112,10 +112,7 @@
   <a href="www.linkedin.com/in/virat-poddar-557600396" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="50" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/PodWork_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/podwork.agency/" target="_blank">
+  <a href="https://www.instagram.com/sanatani_.trader/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="49" height="40" alt="instagram logo"  />
   </a>
 </div>
