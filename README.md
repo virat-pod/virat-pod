@@ -36,7 +36,7 @@
 
 ###
 
-<h4>- ⚡ Fun fact: <strong>you never succeed without going online ...</strong></h4>
+<h4>- ⚡ Fun fact: <strong><b>you never succeed without going online ...</b></strong></h4>
 
 ###
 
