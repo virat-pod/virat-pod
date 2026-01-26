@@ -32,7 +32,7 @@
 
 ###
 
-<h4>- 📄 Know My Portfolio? -<a href="https://virat-podwork-portfolio.vercel.app" target="_blank"> click here</a></h4>
+<h4>- 📄 Know My Portfolio? -<a> click here</a></h4>
 
 ###
 
