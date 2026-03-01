@@ -76,7 +76,7 @@
 ### Socials
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/virat-poddar-557600396" target="_blank">
+  <a href="" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="45" height="40" alt="LinkedIn logo" />
   </a>
   <a href="https://www.instagram.com/sanatani_.trader/" target="_blank">
