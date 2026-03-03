@@ -13,7 +13,8 @@
 <img align="right" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhicDl1Y2Z5ZHVsZW42cWY3NDlqOG9seWFxczlvM29oN3VmaDN6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qwi7fF1bfJQMPlTZ43/giphy.gif" />
 
 - 👨‍💻 Check out my projects in the **repo section**  
-- 💬 Reach me - <span style="color:blue;">podwork.info@gmail.com</span>
+- 💬 Reach me - <span style="color:blue;">viratpod2012@gmail.com</span>
+- ✅ Discord ID: gamingfinal
 - 📄 My Portfolio: *You can visit my repo's*  
 - ⚡ Fun fact: **You never succeed without going online**  
 
