@@ -15,7 +15,11 @@
 - 👨‍💻 Check out my projects in the **repo section**  
 - 💬 Reach me - <span style="color:blue;">viratpod2012@gmail.com</span>
 - ✅ Discord ID: gamingfinal
-- 📄 My Portfolio: *You can visit my repo's*  
+- 📄 My Portfolio: 
+<a href="https://viratpod.vercel.app/" 
+   style="color: #4f46e5; text-decoration: none; font-weight: 600;">
+   Visit Here
+</a>
 - ⚡ Fun fact: **You never succeed without going online**  
 
 ---
