@@ -88,7 +88,7 @@
 
 <div align="left">
   <a href="" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="45" height="40" alt="LinkedIn logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="40" alt="LinkedIn logo" />
   </a>
   <div>-</div>
   <a href="https://www.instagram.com/sanatani_.trader/" target="_blank">
