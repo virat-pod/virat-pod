@@ -16,7 +16,7 @@
 - 💬 Reach me - <span style="color:blue;">viratpoddar2012@gmail.com</span>
 - ✅ Discord ID: gamingfinal
 - 📄 My Portfolio: 
-<a href="https://viratpod.vercel.app/" 
+<a href="https://viratpod.pro/" 
    style="color: #4f46e5; text-decoration: none; font-weight: 600;">
    Visit Here
 </a>
