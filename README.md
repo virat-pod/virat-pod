@@ -20,7 +20,6 @@
    style="color: #4f46e5; text-decoration: none; font-weight: 600;">
    Visit Here
 </a>
-- ⚡ Fun fact: **You never succeed without going online**  
 
 ---
 
