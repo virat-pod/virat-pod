@@ -16,6 +16,7 @@
 - ✅ Discord ID: gamingfinal
 - 📄 My Portfolio: 
 <a href="https://viratpod.pro/" 
+   target="_blank"
    style="color: #4f46e5; text-decoration: none; font-weight: 600;">
    Visit Here
 </a>
